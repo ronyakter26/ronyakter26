@@ -1,5 +1,5 @@
 <p align ="center">
-  <img src="./banner.png" alt="Rony Akter Banner" width="100%">
+  <img src="./Navy%20Blue%20Modern%20Developer%20LinkedIn%20Banner-20260902-213706-0000.png" alt="Rony Akter Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Rony Akter</h1>
 <h3 align="center">An aspiring frontend developer from Bangladesh.</h3>

@@ -1,3 +1,4 @@
+<img src="./github-banner.png"width="100%"/>
 <h1 align="center">Hi 👋, I'm Rony Akter</h1>
 <h3 align="center">An aspiring frontend developer from Bangladesh.</h3>
 

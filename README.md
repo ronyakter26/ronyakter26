@@ -1,4 +1,4 @@
-![Banner](./Navy%20Blue%20Modern%20Developer%LinkedIn%20Banner-20260902-213706-0000.png)
+<img src="Navy Blue Modern Developer LinkedIn Banner 20260902-213706-0000.png" width="100%" alt="Banner">
 <h1 align="center">Hi 👋, I'm Rony Akter</h1>
 <h3 align="center">An aspiring frontend developer from Bangladesh.</h3>
 

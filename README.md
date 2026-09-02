@@ -1,4 +1,5 @@
-<img src="./github-banner.png"width="100%"/>
+<src="./<img width="1584" height="396" alt="Navy Blue Modern Developer LinkedIn Banner_20260902_213706_0000" src="https://github.com/user-attachments/assets/998e08d2-973b-43e3-99ce-d142404b3ebc"width="100%"/>
+"
 <h1 align="center">Hi 👋, I'm Rony Akter</h1>
 <h3 align="center">An aspiring frontend developer from Bangladesh.</h3>
 

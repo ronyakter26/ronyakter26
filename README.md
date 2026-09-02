@@ -1,4 +1,6 @@
-<img src="Navy Blue Modern Developer LinkedIn Banner 20260902-213706-0000.png" width="100%" alt="Banner">
+<p align ="center">
+  <img src="./banner.png" alt="Rony Akter Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Rony Akter</h1>
 <h3 align="center">An aspiring frontend developer from Bangladesh.</h3>
 

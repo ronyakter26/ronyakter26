@@ -1,8 +1,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ronyakter26/ronyakter26/main/Navy%20Blue%20Modern%20Developer%20LinkedIn%20Banner_20260902_213706_0000.png" width="100%" alt="Rony Akter Banner">
 </p>
+
 <h1 align="center">Hi 👋, I'm Rony Akter</h1>
-<h3 align="center">An aspiring frontend developer from Bangladesh.</h3>
+<!-- Animated Typing Text Line -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=000000&center=true&vCenter=true&width=650&lines=An+aspiring+frontend+developer+from+Bangladesh." alt="Typing SVG" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **React.Js | TypeScript |JavaScript |Tailwind CSS**
 

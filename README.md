@@ -20,6 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  📧 Email: <a href="mailto:ronyakter418@gmail.com">ronyakter418@gmail.com</a><br>
+  💬 Discord: <a href="https://discord.com/users/1539257202806628533">rony97531</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
